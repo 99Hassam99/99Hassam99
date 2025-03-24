@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassam Ahmad Qureshi</h1>
-<h3 align="center">A passionate Data Scientist & Python developer from Pakistan</h3>
+<h3 align="center">A passionate Python developer, Panda3D game Dev & Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=99hassam99&label=Profile%20views&color=0e75b6&style=flat" alt="99hassam99" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/@officialhassam2" target="blank"><img src="https://img.shields.io/twitter/follow/@officialhassam2?logo=twitter&style=for-the-badge" alt="@officialhassam2" /></a> </p>
 
-- 🔭 I’m currently working on **Fitness Tracker- Data Science & ML Project**
+- 🔭 I’m currently working on **FYP Project: Panda3D Game**
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m currently learning **Game Development, Data Science & Machine Learning**
 
-- 👯 I’m looking to collaborate on **Python & Data Science Projects**
+- 👯 I’m looking to collaborate on **Panda3D, Python & Data Science Projects**
 
-- 🤝 I’m looking for help with **ML & DL**
+- 🤝 I’m looking for help with **Panda3D, ML and DL**
 
 - 💬 Ask me about **Python & DS/ML**
 
